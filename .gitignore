@@ -12,3 +12,5 @@ wheels/
 # other files
 .env
 
+# db
+invoice_app.db
