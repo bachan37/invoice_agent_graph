@@ -14,3 +14,6 @@ wheels/
 
 # db
 invoice_app.db
+
+# .DS_Store
+**/*.DS_Store
